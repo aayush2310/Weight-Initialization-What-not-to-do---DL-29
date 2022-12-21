@@ -1,0 +1,7 @@
+Problems with inappropriate weight initialization:-
+1)vanishing gradient problem
+2)Exploding gradient problem
+3)slow convergence
+
+wrong weight initialisation tech:-
+1)Zero initialization-setting each weight to 0.
